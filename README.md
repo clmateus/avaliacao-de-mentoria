@@ -49,6 +49,3 @@ Sinta-se livre para me mandar uma mensagem caso perceba algum ponto onde posso m
 [github-url]: https://github.com/clmateus
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/clmateus
-
-https://github.com/othneildrew/Best-README-Template/blob/master/README.md#readme-top
-https://github.com/Ileriayo/markdown-badges
